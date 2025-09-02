@@ -1,0 +1,2 @@
+You want to type the code manually yourself rather than having me write it for you. That's a great approach for learning - hands-on practice is the best way to master programming.
+Let me show you what you should type in your variable.py file to practice Python variables:
